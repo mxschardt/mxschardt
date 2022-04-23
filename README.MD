@@ -29,7 +29,3 @@ Software Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/mxschardt"><img src="https://github-readme-stats.vercel.app/api?username=mxschardt&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=true&show_icons=true" alt="mxschardt's GitHub stats" /></a>
-
-<a href="http://www.github.com/mxschardt"><img src="https://activity-graph.herokuapp.com/graph?username=mxschardt&bg_color=ffffff&color=64748b&line=22c55e&point=64748b&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/mxschardt" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxschardt&langs_count=10&title_color=444e59&text_color=64748b&icon_color=22c55e&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
