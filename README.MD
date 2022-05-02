@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Saint Petersburg
-* 🖥️  See my portfolio at [mxschardt.vercel.com](http://mxschardt.vercel.com/)
+* 🖥️  See my portfolio here(http://mxschardt.vercel.app/)
 * ✉️  You can contact me at [mxschardt@gmail.com](mailto:mxschardt@gmail.com)
 * 🧠  Currently learning Next.js
 * 🤝  I'm open to collaborating!
